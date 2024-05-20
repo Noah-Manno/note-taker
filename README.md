@@ -1,15 +1,58 @@
-# Note Taker Starter Code
+# note-taker
 
-GIVEN a note-taking application
-WHEN I open the Note Taker
-THEN I am presented with a landing page with a link to a notes page
-WHEN I click on the link to the notes page
-THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
-WHEN I enter a new note title and the note’s text
-THEN a "Save Note" button and a "Clear Form" button appear in the navigation at the top of the page
-WHEN I click on the Save button
-THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes and the buttons in the navigation disappear
-WHEN I click on an existing note in the list in the left-hand column
-THEN that note appears in the right-hand column and a "New Note" button appears in the navigation
-WHEN I click on the "New Note" button in the navigation at the top of the page
-THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+## Description
+
+This is an application with a front end which accepts the users notes. The back end stores the notes in a json file which is read and populated onto the page. This application can be used between multiple devices and users.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+
+N/A
+
+## Usage
+
+Open up the application and type a note with a title. You can delete a note by clicking on the trash icon. Also, you can view previous notes by clikcing on their title.
+
+## Credits
+
+Noah Manno
+
+## Contributing
+
+N/A
+
+## License
+
+[MIT License](https://opensource.org/license/MIT)
+
+---
+
+## Badges
+
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
+## Tests
+
+N/A
+
+
+## Questions 
+
+Noah Manno: https://github.com/Noah-Manno. Please feel free to reach out to me with any questions at noahmanno19@gmail.com.
+
+
+## Deployment 
+
+Github Repo: https://github.com/Noah-Manno/note-taker
+Deployed Application: https://note-taker-nvdz.onrender.com/
+
+
+![Note Taker App](/projectscreenshot.png "Project Screenshot")
