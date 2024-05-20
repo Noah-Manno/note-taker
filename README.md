@@ -35,10 +35,6 @@ N/A
 
 ---
 
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
 ## Tests
 
 N/A
